@@ -5,22 +5,22 @@
 ### Технический писатель: Загребельных Екатерина
 ### Участник 4: Коврижных Алексей
 ## Оглавление:
-[Business-context](01-business-context.md)
+[Business-context](docs/01-business-context.md)
 
-[Requirements](02-requirements.md)
+[Requirements](docs/02-requirements.md)
 
-[Users-roles](03-users-roles.md)
+[Users-roles](docs/03-users-roles.md)
 
-[Context-diagram](04-context-diagram.md)
+[Context-diagram](docs/04-context-diagram.md)
 
-[Glossary](05-glossary.md)
+[Glossary](docs/05-glossary.md)
 
-[Questions](06-questions.md)
+[Questions](docs/06-questions.md)
 
-[Assumptions-risks](07-assumptions-risks.md)
+[Assumptions-risks](docs/07-assumptions-risks.md)
 
-[User-stories](08-user-stories.md)
+[User-stories](docs/08-user-stories.md)
 
-[Job-stories](09-job-stories.md)
+[Job-stories](docs/09-job-stories.md)
 
-[Traceability](traceability.md)
+[Traceability](docs/traceability.md)
